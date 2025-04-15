@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Harry94425/todos.git/static/css/main.eaffb1a0.css",
+    "main.js": "/Harry94425/todos.git/static/js/main.c71a8f26.js",
+    "static/js/952.85ce6841.chunk.js": "/Harry94425/todos.git/static/js/952.85ce6841.chunk.js",
+    "static/js/453.ffbcad76.chunk.js": "/Harry94425/todos.git/static/js/453.ffbcad76.chunk.js",
+    "index.html": "/Harry94425/todos.git/index.html",
+    "main.eaffb1a0.css.map": "/Harry94425/todos.git/static/css/main.eaffb1a0.css.map",
+    "main.c71a8f26.js.map": "/Harry94425/todos.git/static/js/main.c71a8f26.js.map",
+    "952.85ce6841.chunk.js.map": "/Harry94425/todos.git/static/js/952.85ce6841.chunk.js.map",
+    "453.ffbcad76.chunk.js.map": "/Harry94425/todos.git/static/js/453.ffbcad76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaffb1a0.css",
+    "static/js/main.c71a8f26.js"
+  ]
+}
